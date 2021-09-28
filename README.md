@@ -6,6 +6,6 @@ We all know that one of the main requirement in Data Engineering is good knowled
 | Day 01 | [SQL Window function]()|
 | Day 02 | [SQL Window function]()|
 | Day 03 | [SQL Window function]()|
-| Day 04 | [Case Study 1 - Danny's Diner]()|
+| Day 04 | [Case Study 1 - Danny's Diner](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_04)|
 | Day 05 | [Case Study 1 - Danny's Diner]()|
 
