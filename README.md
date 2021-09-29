@@ -3,9 +3,9 @@ We all know that one of the main requirement in Data Engineering is good knowled
 
 | Day | SQL Concept |
 |---------|---------------|
-| Day 01 | [SQL Window function]()|
-| Day 02 | [SQL Window function]()|
-| Day 03 | [SQL Window function]()|
+| Day 01 | [SQL Window function](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_01)|
+| Day 02 | [SQL Window function](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_02)|
+| Day 03 | [SQL Window function](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_03)|
 | Day 04 | [Case Study 1 - Danny's Diner](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_04)|
-| Day 05 | [Case Study 1 - Danny's Diner]()|
+| Day 05 | [Case Study 1 - Danny's Diner](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_05)|
 
