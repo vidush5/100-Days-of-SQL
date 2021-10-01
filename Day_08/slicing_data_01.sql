@@ -1,0 +1,1 @@
+SELECT Name from consumerdetails WHERE Locality in ("Shanti Vihar", "Shakti Nagar");

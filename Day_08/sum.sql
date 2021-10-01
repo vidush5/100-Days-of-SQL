@@ -1,0 +1,1 @@
+SELECT sum(Total_amt_spend) as sum_all FROM ConsumerDetails;

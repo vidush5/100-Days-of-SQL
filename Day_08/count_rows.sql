@@ -1,0 +1,1 @@
+SELECT count(*) FROM day_08.consumerdetails;

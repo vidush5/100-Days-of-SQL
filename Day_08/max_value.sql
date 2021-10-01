@@ -1,0 +1,1 @@
+SELECT max(Total_amt_spend) as max_all from consumerdetails;
