@@ -17,8 +17,7 @@ Link = https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analys
 ## Data set
 To perform the above sql techniques we have created the below table.
 
-| Day | SQL Concept |
-|---------|---------------|
+![alt text](table.png)
 
 
 
@@ -39,7 +38,7 @@ SELECT * FROM consumerdetails WHERE Locality LIKE "%Nagar"
 Q6) How to find the number of customers corresponding to the specific industries?
 SELECT COUNT(*), Industry from consumerdetails group by Industry
 
-##Notes
+## Notes
 01. A lot of times, our data table is filled with duplicate values. To attain the unique value, we use the DISTINCT function.
 
 02. Aggregation functions are the base of any kind of data analysis. They provide us with an overview of the dataset. (SUM(), AVG(), STDDEV()).
