@@ -1,4 +1,4 @@
-# Article 01 (https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/)
+# Article 01
 
 ## 08 SQL Techniques to perform Data Analysis for Data Science
 
