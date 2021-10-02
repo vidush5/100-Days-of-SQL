@@ -8,4 +8,8 @@ We all know that one of the main requirement in Data Engineering is good knowled
 | Day 03 | [SQL Window function](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_03)|
 | Day 04 | [Case Study 1 - Danny's Diner](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_04)|
 | Day 05 | [Case Study 1 - Danny's Diner](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_05)|
+| Day 06 | [Case Study 1 - Danny's Diner](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_06)|
+| Day 07 | [Case Study 1 - Danny's Diner](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_07)|
+| Day 08 | [08 SQL Techniques](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_08)|
+| Day 09 | [SQL with Python (mysql.connector module)](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_09)|
 
