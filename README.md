@@ -12,4 +12,5 @@ We all know that one of the main requirement in Data Engineering is good knowled
 | Day 07 | [Case Study 1 - Danny's Diner](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_07)|
 | Day 08 | [08 SQL Techniques](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_08)|
 | Day 09 | [SQL with Python (mysql.connector module)](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_09)|
+| Day 10 | [W3 School SQL Tutorials](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_10)|
 
