@@ -22,7 +22,7 @@ We all know that one of the main requirement in Data Engineering is good knowled
 | Day 17 | |
 | Day 18 | |
 | Day 19 | |
-| Day 20 | |
+| Day 20 | [SQL Joins](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_20) |
 | Day 21 | |
 | Day 22 | |
 | Day 23 | |
