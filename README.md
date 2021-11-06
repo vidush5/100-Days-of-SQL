@@ -14,14 +14,14 @@ We all know that one of the main requirement in Data Engineering is good knowled
 | Day 09 | [SQL with Python (mysql.connector module)](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_09)|
 | Day 10 | [W3 School SQL Tutorials](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_10)|
 | Day 11 | [SQL Articles](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_11)|
-| Day 12 | |
-| Day 13 | |
-| Day 14 | |
+| Day 12 | [HackerRank SQL Practice Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_12)|
+| Day 13 | [HackerRank SQL Practice Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_13)|
+| Day 14 | [HackerRank SQL Practice Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_11)|
 | Day 15 | [SQL Interview Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_15)|
 | Day 16 | [SQL Interview Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_16)|
 | Day 17 | [SQL Interview Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_17)|
 | Day 18 | [SQL Interview Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_18)|
-| Day 19 | [SQL Interview Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_19)|
+| Day 19 | [HackerRank SQL Practice Questions](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_19)|
 | Day 20 | [SQL Joins](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_20) |
 | Day 21 | |
 | Day 22 | |
