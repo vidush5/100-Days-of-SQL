@@ -92,3 +92,42 @@ Q2. Give examples of commands for each.
   <img width="400" height="400" src="sql_commands1.png">
 </p>
 
+#### Data types and how SQL handles it (including blanks and NULLs)
+Q1. What are the common data types in SQL?
+
+- Numeric - int, float, decimal, real, smallint, tinyint, bit, bigint
+
+- Date / Time - date, time, datetime, timestamp, year
+
+- Character / String - Char, Varchar, Text
+
+- Unicode Character / String - NChar, NVarcar, NText
+
+- Binary - Binary, Varbinary, image
+
+- Miscellaneous - Clob, Blob, XML, JSON
+
+Q2. Does an SQLite database support date time objects?
+
+SQLite does not support built-in date and/or time storage class
+
+#### Attribute constraints
+Q1. What are attribute constraints, and explain them?
+
+Constraints are the rules enforced on the data columns of a table.
+
+- NOT NULL CONSTRAINT - Ensures that a column cannot have a NULL value
+
+- DEFAULT CONSTRAINT - Provides a default value for a column when none is specified.
+
+- UNIQUE CONSTRINT - Ensures that all values in a column are different.
+
+- PRIMARY KEY - Uniquily identifies each row/ record in a database table.
+
+- FOREIGN KEY - Uniquely identifies a row/ record in any of the given database table.
+
+- INDEX - Used to create and retrieve data from the database very quickly.
+
+#### Types of JOINS
+Q1. What is the difference between inner join and left outer join?
+
